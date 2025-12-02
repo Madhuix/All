@@ -1,0 +1,5 @@
+workspace/all
+
+python -m http.server
+
+open portnumber
